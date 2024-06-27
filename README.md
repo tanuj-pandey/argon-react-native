@@ -10,6 +10,12 @@ Argon React Native is a fully coded app template built over [Galio.io](https://g
 
 Start your development with a badass Design System for React Native inspired by Argon Design System. If you like Argon's Design System, you will love this react native app template! It features a huge number of components and screens built to fit together and look amazing. 
 
+### Pre-requsite
+1. Node version 14.17.0
+2. npm i
+3. npm i -g expo-cli
+4. Install Expo GO SDK 48 on android device
+
 ### FULLY CODED COMPONENTS
 
 Argon React Native features over 200 variations of components like buttons, inputs, cards, navigations etc, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify inside our theme file.
